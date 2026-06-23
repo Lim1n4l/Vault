@@ -1,5 +1,5 @@
 # what is Vault
-A simple GUI application for encrypting and decrypting files using a **single encryption key**.
+A simple GUI application for encrypting and decrypting files using a **SINGLE ENCRYPTION KEY**.
 # How It Works
 This application uses one encryption key for all encrypted files. The key is stored at:
 
@@ -19,7 +19,7 @@ python vault.py
 # Important Warning ⚠️
 1- All files encrypted with this application use the same encryption key stored in the path above.
 
-2- **Do not lose or delete this key file !!!**
+2- **DO NOT LOSE OR DELETE THIS KEY FILE !!!**
 
 3- if the key is lost, all encrypted files will become permanently undecryptable, and there will be no way to recover them !
 
