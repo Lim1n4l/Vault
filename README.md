@@ -1,4 +1,4 @@
-# what is Vault
+# What is Vault
 A simple GUI application for encrypting and decrypting files using a **SINGLE ENCRYPTION KEY**.
 # How It Works
 This application uses one encryption key for all encrypted files. The key is stored at:
