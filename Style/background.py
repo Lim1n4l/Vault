@@ -6,7 +6,7 @@ def set_background(wd) :
   parts = base_dir.split(os.sep)
   parts.remove("Style")
   p = os.sep.join(parts)
-  img = os.path.join(p , "img" , "lock.png") # background phat
+  img = os.path.join(p , "img" , "lock.png") # background path
   bg = qt.QLabel(wd)
   bg.setPixmap(qg.QPixmap(img))
   bg.setScaledContents(True)
